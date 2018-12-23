@@ -5,5 +5,5 @@
     [Level] [varchar] (50) NOT NULL,
     [Logger] [varchar] (255) NOT NULL,
     [Message] [varchar] (4000) NOT NULL,
-    [Exception] [varchar] (2000) NULL
+    [Exception] [varchar] (4000) NULL
 )
